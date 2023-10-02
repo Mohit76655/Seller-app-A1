@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "image":"bmwM5.jpg",
+        "title": "Bmw M5 CS",
+        "fule": "Gasoline",
+        "avg": "7.2km/1-liter",
+        "type": "Automatic",
+        "year": "2020",
+        "people": "4 people",
+        "price": "$400/month"
+    },
+    {
+        "id": 2,
+        "image":"bmwM5.jpg",
+        "title": "Bmw M5 CS",
+        "fule": "Gasoline",
+        "avg": "7.2km/1-liter",
+        "type": "Automatic",
+        "year": "2020",
+        "people": "4 people",
+        "price": "$400/month"
+    },
+    {
+        "id": 3,
+        "image":"bmwM5.jpg",
+        "title": "Bmw M5 CS",
+        "fule": "Gasoline",
+        "avg": "7.2km/1-liter",
+        "type": "Automatic",
+        "year": "2020",
+        "people": "4 people",
+        "price": "$400/month"
+    },
+    {
+        "id": 4,
+        "image":"bmwM5.jpg",
+        "title": "Bmw M5 CS",
+        "fule": "Gasoline",
+        "avg": "7.2km/1-liter",
+        "type": "Automatic",
+        "year": "2020",
+        "people": "4 people",
+        "price": "$400/month"
+    },
+    {
+        "id": 5,
+        "image":"bmwM5.jpg",
+        "title": "Bmw M5 CS",
+        "fule": "Gasoline",
+        "avg": "7.2km/1-liter",
+        "type": "Automatic",
+        "year": "2020",
+        "people": "4 people",
+        "price": "$400/month"
+    },
+    {
+        "id": 6,
+        "image":"bmwM5.jpg",
+        "title": "Bmw M5 CS",
+        "fule": "Gasoline",
+        "avg": "7.2km/1-liter",
+        "type": "Automatic",
+        "year": "2020",
+        "people": "4 people",
+        "price": "$400/month"
+    },
+    {
+        "id": 7,
+        "image":"bmwM5.jpg",
+        "title": "Bmw M5 CS",
+        "fule": "Gasoline",
+        "avg": "7.2km/1-liter",
+        "type": "Automatic",
+        "year": "2020",
+        "people": "4 people",
+        "price": "$400/month"
+    },
+    {
+        "id": 8,
+        "image":"bmwM5.jpg",
+        "title": "Bmw M5 CS",
+        "fule": "Gasoline",
+        "avg": "7.2km/1-liter",
+        "type": "Automatic",
+        "year": "2020",
+        "people": "4 people",
+        "price": "$400/month"
+    }
+]
