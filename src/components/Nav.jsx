@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import Products from '../products.json'
 import 'remixicon/fonts/remixicon.css'
 
-const Nav = () => {
+const Nav = ({Products}) => {
   const [searchTerm, setsearchTerm] = useState("")
   return (
     <>
